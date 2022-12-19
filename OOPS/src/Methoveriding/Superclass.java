@@ -5,4 +5,7 @@ public class Superclass {
 	System.out.println("Front");
 	
 }
+ void seat(){
+		System.out.println("Middle");
+	}
 }
